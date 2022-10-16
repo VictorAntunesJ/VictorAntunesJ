@@ -2,7 +2,7 @@
 - 🔭 Atualmente estou trabalhando em uma integração via Api de um sistema de gestão de agendamento com a IugoPay.
 - 🔭 Também estou trabalhando em um projeto pessoal e social para mapeamento de vagas preferenciais para PCD.
 - 🌱 Atualmente estou aprendendo sobre padroes de projetos, principios de SOLID, TDD e Arquitetura limpa.
-- 💬 Me pergunte sobre **Asp.Net, C#, Dot.Net Core/Full,WebApi, JWT, Swegger, Docker,  SQL e SQL Server **
+- 💬 Me pergunte sobre **Asp.Net, C#, Dot.Net Core/Full,WebApi, JWT, Swagger, Docker,  SQL e SQL Server **
 - 🤝 Projetos que já trabalhei publicados em produção: 
     - ✅   [Optemais](https://www.optemais.com.br/)
     - ✅   [Sicredi](https://www.recompensascartoessicredi.com.br/)
