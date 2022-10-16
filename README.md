@@ -1,4 +1,4 @@
-## Olá! Sou Victor Antunes, Desencolvedor Back-end Asp.net!
+## Olá! Sou Victor Antunes, Desenvolvedor Back-end Asp.net!
 - 🔭 Atualmente estou trabalhando em uma integração via Api de um sistema de gestão de agendamento com a IugoPay.
 - 🔭 Também estou trabalhando em um projeto pessoal e social para mapeamento de vagas preferenciais para PCD.
 - 🌱 Atualmente estou aprendendo sobre padroes de projetos, principios de SOLID, TDD e Arquitetura limpa.
