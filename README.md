@@ -4,10 +4,10 @@
 - 🌱 Atualmente estou aprendendo sobre padroes de projetos, principios de SOLID, TDD e Arquitetura limpa.
 - 💬 Me pergunte sobre **Asp.Net, C#, Dot.Net Core/Full,WebApi, JWT, Swagger, Docker,  SQL e SQL Server **
 - 🤝 Projetos que já trabalhei publicados em produção: 
-    - ✅   [Optemais](https://www.optemais.com.br/)
-    - ✅   [Sicredi](https://www.recompensascartoessicredi.com.br/)
-    - ✅   [Flytour](https://dev.travelhubapi.com.br/),
-    - ✅   [Banestes-PCI](https://www.banestesfidelidade.com.br/banestesvisa/usuario/loginbanestes)
+    - ✅   [Optemais- Ecommerce-PagSeguro](https://www.optemais.com.br/)
+    - ✅   [Sicredi-PCI- Programa Fidelidade](https://www.recompensascartoessicredi.com.br/)
+    - ✅   [Flytour - Integração Hub de Aério(CSU)](https://dev.travelhubapi.com.br/),
+    - ✅   [Banestes-PCI-Loyalty](https://www.banestesfidelidade.com.br/banestesvisa/usuario/loginbanestes)
  - 🤝 Projetos corporativos Internos: 
     - ✅ Analise de Risco e Fraude
     - ✅ Chat boot (IA) Ibm-Watson
