@@ -6,17 +6,11 @@
 - 🤝 Projetos que já trabalhei publicados em produção: 
     - ✅   [Optemais](https://www.optemais.com.br/)
     - ✅   [Sicredi](https://www.recompensascartoessicredi.com.br/)
-    - ✅   [Banriclub-PCI](https://www.banrishopping.com.br/), 
-    - ✅   [Petrobras Premmia](https://premmia.optemais.com.br/),
     - ✅   [Flytour](https://dev.travelhubapi.com.br/),
     - ✅   [Banestes-PCI](https://www.banestesfidelidade.com.br/banestesvisa/usuario/loginbanestes)
  - 🤝 Projetos corporativos Internos: 
     - ✅ Analise de Risco e Fraude
-    - ✅ Analise e acompanhamento de Produção
     - ✅ Chat boot (IA) Ibm-Watson
-    - ✅ Pesquisa Interna
-    - ✅ Integração Google Tag Manager
-    - ✅ Integração Google Analytics
     - ✅ Integração Google FireBase
     - ✅ Sitema de gestao de campanha (BI-Cognos 10)
     
