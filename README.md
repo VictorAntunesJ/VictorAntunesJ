@@ -1,6 +1,4 @@
-# Victor Antunes
-
-### Back-end .NET Developer
+# Back-end .NET Developer
 
 Building backend applications with **C#**, **ASP.NET Core** and **Clean Architecture**.
 
