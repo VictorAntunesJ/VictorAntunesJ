@@ -1,6 +1,4 @@
-# Victor Antunes
-
-### Back-end .NET • C# • ASP.NET Core • PostgreSQL
+# Back-end .NET • C# • ASP.NET Core • PostgreSQL
 
 Building backend applications focused on clean architecture, REST APIs and real-world software.
 
