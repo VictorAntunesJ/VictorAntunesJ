@@ -1,34 +1,31 @@
 # Victor Antunes
 
-```yaml
-name: Victor Antunes
-role: Back-end .NET Developer
-location: Contagem, MG 🇧🇷
+### Back-end .NET • C# • ASP.NET Core • PostgreSQL
 
-building:
-  - REST APIs with ASP.NET Core
-  - Real-world backend projects
-  - Clean Architecture
+Building backend applications focused on clean architecture, REST APIs and real-world software.
 
-currently:
-  - Improving my .NET ecosystem skills
-  - Looking for my first opportunity as a Back-end Developer
-```
+## Current Focus
 
-> "Transformando experiência de negócios em soluções backend."
+- ASP.NET Core (.NET 8)
+- Clean Architecture
+- Entity Framework Core
+- Docker
+- PostgreSQL
 
-```csharp
-public class VictorAntunes
-{
-    public string Stack => "C# | .NET 8 | ASP.NET Core | EF Core";
-    public string MainProject => "PecasAntunes API";
-    public string Goal => "Build reliable software that solves real problems.";
-}
-```
+## Featured Project
 
-### 🚀 Featured Project
+🚀 PecasAntunes API
 
-**PecasAntunes API**  
-REST API • Clean Architecture • PostgreSQL • Docker • Render
+REST API for auto parts management.
 
-📎 LinkedIn • Portfolio • Email
+✔ CRUD
+✔ Clean Architecture
+✔ PostgreSQL
+✔ Swagger
+✔ Render Deploy
+
+## Tech
+
+C# • .NET • ASP.NET Core • EF Core • PostgreSQL • SQL Server • Docker • Git
+
+---
