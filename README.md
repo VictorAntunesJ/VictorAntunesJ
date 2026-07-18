@@ -2,31 +2,22 @@
 name: Victor Antunes
 location: Contagem, MG 🇧🇷
 role: Back-end .NET Developer
-experience: 15+ years in business | Transitioning to software engineering
-```
 
-```bash
-$ whoami
+currently:
+  - Building REST APIs with ASP.NET Core
+  - Studying Clean Architecture and Docker
+  - Developing real-world backend projects
 
-Victor Antunes
-Back-end .NET Developer focused on C#, ASP.NET Core and REST APIs.
+stack:
+  - C#
+  - .NET 8
+  - ASP.NET Core
+  - PostgreSQL
+  - SQL Server
 
-Building real-world backend projects with Clean Architecture, PostgreSQL and Docker.
-``` 
+featured_project:
+  - PecasAntunes API
 
-class VictorAntunes:
-    def __init__(self):
-        self.current_focus = [".NET 8", "Clean Architecture", "Docker", "Automated Tests"]
-        self.project = "PecasAntunes API 🚗"
-        self.goal = "First opportunity as a .NET Back-end Developer"
-
-# 🛠️ Stack
-C# | .NET 8 | ASP.NET Core | EF Core | PostgreSQL | Docker | Git
-
-# 🚀 Featured Project
-→ PecasAntunes API: https://github.com/VictorAntunesJ/PecasAntunesApi
-
-# 📫 Contact
-LinkedIn: https://www.linkedin.com/in/victorantunesj/
-Email: victorsergioantunes23@gmail.com
+mission:
+  Transforming business problems into software solutions.
 ```
