@@ -1,29 +1,37 @@
-# Back-end .NET • C# • ASP.NET Core • PostgreSQL
+# Victor Antunes
 
-Building backend applications focused on clean architecture, REST APIs and real-world software.
+### Back-end .NET Developer
+
+Building backend applications with **C#**, **ASP.NET Core** and **Clean Architecture**.
 
 ## Current Focus
 
 - ASP.NET Core (.NET 8)
 - Clean Architecture
 - Entity Framework Core
-- Docker
 - PostgreSQL
+- Docker
 
 ## Featured Project
 
-🚀 PecasAntunes API
+### 🚀 PecasAntunes API
 
 REST API for auto parts management.
 
-✔ CRUD
-✔ Clean Architecture
-✔ PostgreSQL
-✔ Swagger
+✔ CRUD  
+✔ Clean Architecture  
+✔ PostgreSQL  
+✔ Swagger/OpenAPI  
 ✔ Render Deploy
 
-## Tech
+## Tech Stack
 
-C# • .NET • ASP.NET Core • EF Core • PostgreSQL • SQL Server • Docker • Git
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,git,github,vscode" />
+</p>
 
 ---
+
+📍 Contagem, MG • 🇧🇷
+
+[LinkedIn](https://www.linkedin.com/in/victorantunesj/)
