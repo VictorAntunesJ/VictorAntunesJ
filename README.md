@@ -11,7 +11,7 @@ Estou em transição para a área de tecnologia e construindo projetos práticos
 - Docker
 - Git
 
-## 📌 Projeto em destaque
+## 📌 Projetos
 
 ### PeçasAntunes API
 
