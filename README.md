@@ -17,6 +17,8 @@ Estou em transição para a área de tecnologia e construindo projetos práticos
 
 API REST desenvolvida com ASP.NET Core utilizando:
 
+- [PecasAntunesApi:](https://github.com/VictorAntunesJ/PecasAntunesApi)
+
 ✔ Entity Framework Core  
 ✔ Clean Architecture  
 ✔ Swagger/OpenAPI  
@@ -24,7 +26,6 @@ API REST desenvolvida com ASP.NET Core utilizando:
 ✔ PostgreSQL  
 ✔ Docker  
 
-- [PecasAntunesApi:](https://github.com/VictorAntunesJ/PecasAntunesApi)
 
 ## 📫 Contato
 
