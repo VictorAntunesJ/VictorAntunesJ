@@ -14,7 +14,7 @@ Estou em transição para a área de tecnologia e construindo projetos práticos
 ## 📌 Projetos
 
 ### PeçasAntunes API
-- [PecasAntunesApi:](https://github.com/VictorAntunesJ/PecasAntunesApi)
+[PecasAntunesApi:](https://github.com/VictorAntunesJ/PecasAntunesApi)
 
 API REST desenvolvida com ASP.NET Core utilizando:
 
