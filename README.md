@@ -17,6 +17,14 @@ Estou em transição para a área de tecnologia e construindo projetos práticos
 
 API REST desenvolvida com ASP.NET Core utilizando:
 
+REST API for auto parts management.
+
+✔ CRUD
+✔ Clean Architecture
+✔ PostgreSQL
+✔ Swagger
+✔ Render Deploy
+
 ✔ Entity Framework Core
 ✔ Clean Architecture
 ✔ Swagger/OpenAPI
@@ -24,7 +32,6 @@ API REST desenvolvida com ASP.NET Core utilizando:
 ✔ PostgreSQL
 ✔ Docker
 
-➡️ https://github.com/VictorAntunesJ/PecasAntunesApi
 - [PecasAntunesApi:](https://github.com/VictorAntunesJ/PecasAntunesApi)
 
 ## 📫 Contato
