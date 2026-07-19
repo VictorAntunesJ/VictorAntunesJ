@@ -17,12 +17,15 @@ Estou em transição para a área de tecnologia e construindo projetos práticos
 
 API REST desenvolvida com ASP.NET Core utilizando:
 
+### 🚗 PecasAntunes API
+
 REST API for auto parts management.
 
-✔ CRUD
-✔ Clean Architecture
-✔ PostgreSQL
-✔ Swagger
+✔ CRUD  
+✔ Clean Architecture  
+✔ PostgreSQL  
+✔ Swagger  
+✔ Render Deploy
 ✔ Render Deploy
 
 ✔ Entity Framework Core
