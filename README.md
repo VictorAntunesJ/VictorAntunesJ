@@ -17,12 +17,12 @@ Estou em transição para a área de tecnologia e construindo projetos práticos
 
 API REST desenvolvida com ASP.NET Core utilizando:
 
-✔ Entity Framework Core
-✔ Clean Architecture
-✔ Swagger/OpenAPI
-✔ Render Deploy
-✔ PostgreSQL
-✔ Docker
+✔ Entity Framework Core  
+✔ Clean Architecture  
+✔ Swagger/OpenAPI  
+✔ Render Deploy  
+✔ PostgreSQL  
+✔ Docker  
 
 - [PecasAntunesApi:](https://github.com/VictorAntunesJ/PecasAntunesApi)
 
