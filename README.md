@@ -25,12 +25,6 @@ API REST desenvolvida com ASP.NET Core utilizando:
 ✔ PostgreSQL  
 ✔ Docker  
 
-
-## 📫 Contato
-
-- LinkedIn: linkedin.com/in/victorantunesj
-- GitHub: github.com/VictorAntunesJ
-
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,git,github,vscode" />
 </p>
@@ -39,4 +33,5 @@ API REST desenvolvida com ASP.NET Core utilizando:
 
 📍 Contagem, MG • 🇧🇷
 
+## 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/victorantunesj/)
