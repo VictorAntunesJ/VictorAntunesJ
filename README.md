@@ -28,10 +28,10 @@ API REST desenvolvida com ASP.NET Core utilizando:
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,git,github,vscode" />
 </p>
-
 ---
 
 📍 Contagem, MG • 🇧🇷
+
 
 ## 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/victorantunesj/)
